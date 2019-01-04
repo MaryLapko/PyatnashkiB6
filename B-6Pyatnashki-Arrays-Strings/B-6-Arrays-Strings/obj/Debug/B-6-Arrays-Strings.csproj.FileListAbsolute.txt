@@ -1,0 +1,7 @@
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\bin\Debug\Base.Lesson_6.exe.config
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\bin\Debug\Base.Lesson_6.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\bin\Debug\Base.Lesson_6.pdb
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\obj\Debug\B-6-Arrays-Strings.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\obj\Debug\B-6-Arrays-Strings.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\obj\Debug\Base.Lesson_6.exe
+C:\Users\Mary_Lapko\Downloads\03-12-2018-master (3)\03-12-2018-master\B-6(5)-Arrays-Strings\B-6-Arrays-Strings\obj\Debug\Base.Lesson_6.pdb
